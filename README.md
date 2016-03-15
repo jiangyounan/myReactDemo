@@ -1,7 +1,7 @@
 # `redux` 
 
 
-* 假如immutable.js
+* 加入immutable.js
 
 * 重新整理了目录结构
 
