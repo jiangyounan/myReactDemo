@@ -1,0 +1,30 @@
+#root{
+    position: relative;
+    width: 100%;
+    height: 100%;
+    color: #000; 
+    font-size: 14px; 
+    overflow: hidden;
+    background-color: #efeff4;
+}
+
+
+.main-view,.view{
+	position: absolute;
+	height: 100%;
+	width: 100%;
+    overflow: hidden;
+    box-shadow: none;
+    -webkit-box-shadow: none;
+    -webkit-backface-visibility: none;
+}
+
+
+.page-view{
+	position: relative;
+	overflow-x:hidden;
+	height: 100%;
+	width: 100%;
+	overflow-y: scroll;
+	-webkit-overflow-scrolling: touch;
+}

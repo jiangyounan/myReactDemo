@@ -1,0 +1,42 @@
+{
+  "name": "myim",
+  "version": "1.0.0",
+  "description": "redux性能优化 immutable",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "classnames": "^2.2.3",
+    "component-ajax": "forbeslindesay/ajax",
+    "es6-promise": "^3.1.2",
+    "fastclick": "^1.0.6",
+    "hammerjs": "^2.0.6",
+    "immutable": "^3.7.6",
+    "object-assign": "^4.0.1",
+    "pull-to-refresh": "^1.1.1",
+    "react": "^0.14.7",
+    "react-dom": "^0.14.7",
+    "react-pure-render": "^1.0.2",
+    "react-redux": "^4.4.0",
+    "react-router": "^2.0.0",
+    "react-slick": "^0.11.1",
+    "redux": "^3.3.1",
+    "redux-logger": "^2.5.2",
+    "redux-thunk": "^1.0.3"
+  },
+  "devDependencies": {
+    "babel": "^6.5.2",
+    "babel-core": "^6.5.2",
+    "babel-loader": "^6.2.2",
+    "babel-preset-es2015": "^6.3.13",
+    "babel-preset-react": "^6.3.13",
+    "babel-preset-stage-0": "^6.3.13",
+    "css-loader": "^0.23.1",
+    "express": "^4.13.4",
+    "style-loader": "^0.13.0",
+    "webpack": "^1.12.13"
+  }
+}

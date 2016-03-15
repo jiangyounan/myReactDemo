@@ -1,0 +1,19 @@
+{
+    "header": {
+        "rspType": "0",
+        "rspCode": "0",
+        "rspDesc": "请求成功"
+    },
+    "body": {
+        "memberId": "269863d62fb97e353983b2536759025f",
+        "points": "13",
+        "poinsSending": "123",
+        "scores": "1",
+        "isSuccess": "1",
+        "description": "执行成功",
+        "todayPoints": "2",
+        "tomorrowPoints": "4",
+        "hasSigned": "0",
+        "code": "0"
+    }
+}

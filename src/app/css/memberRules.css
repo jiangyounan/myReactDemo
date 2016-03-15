@@ -1,0 +1,68 @@
+.memberRules ul{
+    background: #fff;
+    /*border-top: 1px solid #dedfe0;*/
+    /*border-bottom: 1px solid #dedfe0;*/
+}
+.memberRules ul li {
+    position: relative;
+    height: 40px;
+    line-height: 40px;
+    /*border-bottom: 1px solid #dedfe0;*/
+    border-width: 0 0 1px 0;
+}
+.memberRules ul li:last-child{
+    /*border: none;*/
+}
+.memberRules ul li div {
+    height: 100%;
+    font-size: 16px;
+    margin-left: 48px;
+    padding-right: 40px;
+}
+.memberRules .icon-more, .memberRules .icon-how, .memberRules .icon-tip {
+    position: absolute;
+    top: 50%;
+    left: 16px;
+    height: 21px;
+    width: 21px;
+    margin-top: -10px;
+}
+.memberRules .icon-more{
+    background-position: -148px -8px;
+}
+.memberRules .icon-how{
+    background-position: -184px -8px;
+}
+.memberRules .icon-tip{
+    background-position: -224px -8px;
+}
+.memberRules .icon-right-arrow {
+    position: absolute;
+    top: 50%;
+    right: 15px;
+    width: 7px;
+    height: 12px;
+    margin-top: -6px;
+    background-position: -268px -8px;
+}
+
+
+.memberRules .content{
+    padding: 15px;
+    line-height: 20px;
+}
+.memberRules .content h3{
+    text-align: center;
+    margin-bottom: 15px;
+}
+.memberRules table{
+    line-height: 30px;
+    width: 100%;
+    text-align: center;
+    border-collapse: collapse;
+    background: #fff; 
+    margin: 10px 0;
+}
+.memberRules table td, .memberRules table th{
+    border: 1px solid #999;
+}

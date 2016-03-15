@@ -1,0 +1,44 @@
+.scoreLog ul{
+    width: 100%;
+    background: #fff;
+    border-width: 0 0 1px 0;
+    /*border-bottom: 1px solid #ddd;*/
+}
+.scoreLog ul li{
+    display: -webkit-box;
+    display: flex;
+    padding: 10px 0;
+    /*border-bottom: 1px solid #ddd;*/
+    border-width: 0 0 1px 0;
+    text-align: center;
+    margin-left: 15px;
+    padding-right: 15px;
+    font-size: 12px;
+}
+.scoreLog ul li:first-child{
+    margin-left: 0;
+    padding-left: 15px;
+    font-size: 14px;
+}
+.scoreLog ul li:last-child{
+    border: none;
+}
+.scoreLog ul li span{
+    -webkit-box-flex: 1;
+    flex: 1;
+}
+.scoreLog ul li span:first-child{
+    text-align: left;
+}
+.scoreLog ul li span:last-child{
+    text-align: right;
+}
+.scoreLog .date{
+    color: #009bec;
+}
+.scoreLog .type{
+    color: #ffc12a;
+}
+.scoreLog .score{
+    color: #ff5a00;
+}

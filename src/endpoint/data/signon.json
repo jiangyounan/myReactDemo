@@ -1,0 +1,14 @@
+{
+    "header": {
+        "rspType": "0",
+        "rspCode": "0",
+        "rspDesc": "请求成功"
+    },
+    "body": {
+        "isSuccess": "1",
+        "successPoints": "0",
+        "points": "15",
+        "pointsSending": "0",
+        "tomorrowPoints": "6"
+    }
+}

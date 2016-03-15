@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset='utf-8'>
+    <meta name="viewport" content="width=device-width,user-scalable = no">
+    <style type="text/css">
+        /*icon*/
+        [class|=icon]{
+            display: block;
+            /*position: absolute;*/
+            width: 25px;
+            height: 25px;
+            background: url(./img/icon.png);
+            background-size: 320px;
+        }
+        .icon-err-noNetwork {
+            position: static;
+            display: inline-block;
+            width: 80px;
+            height: 80px;
+            background: url(./img/icon_noresult_network.png);
+            background-size: 80px 80px;
+        }
+        .icon-err-noResult {
+            position: static;
+            display: inline-block;
+            width: 80px;
+            height: 80px;
+            background: url(./img/icon_noresult_noline.png);
+            background-size: 80px 80px;
+        }
+        .border-tb{
+            border-image: url(./img/border-dc.png) 2 0 stretch;
+        }
+        .border-lr{
+            border-image: url(./img/border-dc-abeam.png) 0 2 stretch;
+        }
+        /*.home .member{
+            background: url(./img/bg_head_vipcenter.png) repeat-x;
+        }*/
+        .home .member .girl{
+            background: url(./img/girl.png);
+        }
+        .home .member .boy{
+            background: url(./img/boy.png);
+        }
+        .home .activity .wednesday em{
+            background: url(./img/icon.png);
+            background-size: 320px;
+        }
+    </style>
+</head>
+<body>
+    <div id='view'></div>
+
+    <script src='./static/bundle.js'></script>
+</body>
+</html>

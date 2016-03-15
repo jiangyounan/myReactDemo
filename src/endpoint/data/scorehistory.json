@@ -1,0 +1,23 @@
+{
+    "header": {
+        "rspType": "0",
+        "rspCode": "0",
+        "rspDesc": "执行成功"
+    },
+    "body": {
+        "scoreHistoryList": [
+            {
+                "description": "签到抽奖送5分",
+                "consumePoints": "5",
+                "plusType": "1",
+                "createDate": "2016-02-29 10:22:24.775"
+            },
+            {
+                "description": "签到抽奖送10分",
+                "consumePoints": "10",
+                "plusType": "1",
+                "createDate": "2016-02-29 10:22:24.775"
+            }
+        ]
+    }
+}

@@ -1,0 +1,71 @@
+{
+  "header": {
+    "rspType": "0",
+    "rspCode": "0",
+    "rspDesc": "请求成功"
+  },
+  "body": {
+    "adPictureList": [
+      {
+        "projectType": "21",
+        "picTitle": "广告banner",
+        "picUrl": "http://m.chebada.com",
+        "picPath": "http://pic3.40017.cn/index/slide/2016/02/26/13/A8yWc3.jpg",
+        "picContent": "",
+        "shareImageUrl": "",
+        "picType": "1",
+        "startTime": "2016-02-22 10:00:22",
+        "endTime": "2016-02-22 18:00:22",
+        "isCanShare": "1"
+      },
+      {
+        "projectType": "21",
+        "picTitle": "广告banner",
+        "picUrl": "http://m.chebada.com",
+        "picPath": "http://pic3.40017.cn/index/slide/2016/03/01/15/IAv5Z9.jpg",
+        "picContent": "",
+        "shareImageUrl": "",
+        "picType": "1",
+        "startTime": "2016-02-22 10:00:22",
+        "endTime": "2016-02-22 18:00:22",
+        "isCanShare": "1"
+      },
+      {
+        "projectType": "21",
+        "picTitle": "kindle&&iPad",
+        "picUrl": "http://m.chebada.com",
+        "picPath": "http://115.159.76.34:8095/Topics/TopBanner/20150703/RedPackageBanner.png",
+        "picContent": "",
+        "shareImageUrl": "",
+        "picType": "3",
+        "startTime": "2016-03-15 15:29:30",
+        "endTime": "2016-02-22 18:00:22",
+        "isCanShare": "1"
+      },
+      {
+        "projectType": "21",
+        "picTitle": "kindle&&iPad",
+        "picUrl": "http://m.chebada.com",
+        "picPath": "http://115.159.76.34:8095/Topics/TopBanner/20150703/RedPackageBanner.png",
+        "picContent": "",
+        "shareImageUrl": "",
+        "picType": "3",
+        "startTime": "2016-03-16 14:19:05",
+        "endTime": "2016-02-22 18:00:22",
+        "isCanShare": "1"
+      },
+      {
+        "projectType": "21",
+        "picTitle": "kindle&&iPad",
+        "picUrl": "http://m.chebada.com",
+        "picPath": "http://img3.imgtn.bdimg.com/it/u=1887679685,879161146&fm=206&gp=0.jpg",
+        "picContent": "",
+        "shareImageUrl": "",
+        "picType": "2",
+        "startTime": "2016-03-03 10:00:22",
+        "endTime": "2016-02-22 18:00:222",
+        "isCanShare": "1"
+      }
+    ]
+  }
+}
